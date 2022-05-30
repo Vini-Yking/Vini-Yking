@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vini-Yking
 - 👀 I’m interested in learn the limit of learning code
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning java spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
